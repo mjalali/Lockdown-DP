@@ -96,6 +96,7 @@ class Aggregation():
                 krum_scores.append(sum(score))
             return krum_scores
 
+        
         # Compute list of scores
         __nbworkers = len(agent_updates_dict)
         krum_scores = _compute_krum_score(agent_updates_dict, self.args.num_corrupt)
