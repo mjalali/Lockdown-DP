@@ -1,6 +1,6 @@
 
 
-# Lockdown: Backdoor Defense for Federated Learning with Isolated Subspace Training
+# Lockdown + DP: Backdoor Defense for Federated Learning with Isolated Subspace Training with Differential Privacy
 This is the repo for the code and datasets used in the paper [Lockdown: Backdoor Defense for Federated Learning with Isolated Subspace Training](https://neurips.cc/virtual/2023/poster/71476), accepted by the NeurIPS 2023.
 The camera ready paper is available [here](https://github.com/git-disl/Lockdown/blob/main/materials/Lockdown__camera_ready_.pdf).
 ## Algorithm overview
